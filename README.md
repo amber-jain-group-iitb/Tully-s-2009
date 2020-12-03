@@ -6,3 +6,5 @@ just run test_script.sh to run a single trajectory
 Interaction_module3.f90 is the mod file
 
 4th_prog_test.f90 is the file to run the mod file
+
+VMD_file.xyz is the file that writes position of all atoms.
